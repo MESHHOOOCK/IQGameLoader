@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IQGameLoader</string>
+    <string name="title_home">Профиль</string>
+    <string name="title_dashboard">FAQ</string>
+    <string name="title_notifications">Математическая игра</string>
+    <string name="title_shop">Магазин</string>
+</resources>
